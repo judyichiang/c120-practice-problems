@@ -19,4 +19,5 @@ function whereIsSeven(arr) {
 }
 whereIsSeven(arr);
 
+//Challenger Judy
 // Completed by Blake
