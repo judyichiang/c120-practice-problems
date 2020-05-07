@@ -26,3 +26,8 @@ function name(parms) {
     //Closure enables access to x
   }
 }
+
+## What is an Event Bus?
+https://github.com/google/guava/wiki/EventBusExplained
+
+EventBus allows publish-subscribe-style communication between components without requiring the components to explicitly register with one another (and thus be aware of each other). It is designed exclusively to replace traditional Java in-process event distribution using explicit registration. It is not a general-purpose publish-subscribe system, nor is it intended for interprocess communication.
