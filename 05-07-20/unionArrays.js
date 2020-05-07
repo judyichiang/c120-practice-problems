@@ -4,6 +4,8 @@
 var arr1 = [1, 2, 3, 4, 5, 3, 2, 4, 8];
 var arr2 = [4, 5, 6, 7, 8];
 
+https://repl.it/@wsugar/NaivePuzzlingCollaborativesoftware
+
 // function unionArr(arr1, arr2) {
 //   let sortedArr = arr1.concat(arr2).sort();
 //   if (sortedArr.some((val, i) => sortedArr.indexOf(val) !== i)) return
