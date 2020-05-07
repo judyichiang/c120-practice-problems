@@ -1,4 +1,3 @@
-// Completed by Tracy
 // Create a Function that Reverses a String:
 // Input:
 // str = 'the quick brown fox';
@@ -18,3 +17,5 @@ function reverse(str) {
   }
   return result.join("")
 }
+
+// Completed by Tracy

@@ -18,3 +18,5 @@ function oddishOrEvenish(num) {
 }
 
 oddishOrEvenish(4433)
+
+// Completed by Jack
