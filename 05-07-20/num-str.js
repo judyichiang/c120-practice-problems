@@ -23,8 +23,8 @@ var num1 = "0"
 var num2 = "0"
 var addStrings = function (num1, num2) {
   let result = Number(num1) + Number(num2)
-  // return ""+ result
-  return result.toString()
+  return ""+ result
+  // return result.toString()
 }
 
 addStrings(num1, num2)
