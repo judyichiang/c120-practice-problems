@@ -13,3 +13,6 @@ T, Th, @ 2:30pm - 3:30pm
 	- If the problem HAS NOT been solved. As a group, solve the problem.
 - If anyone has a coding problem outside the session bring it to the host to get in the discussion queue.
 - Jack, Tracy, and Jerry documents and maintain the repo for the session
+
+### Resoruces
+- [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
