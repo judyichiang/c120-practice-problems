@@ -16,3 +16,4 @@ T, Th, @ 2:30pm - 3:30pm
 
 ### Resources
 - [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
+- [Front-end Developer Interview Questions](https://h5bp.org/Front-end-Developer-Interview-Questions/)
