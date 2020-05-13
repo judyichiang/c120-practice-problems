@@ -3,7 +3,8 @@ Attendees bring 2 Interview Questions
 
 ### New Day & Time:
 T, Th, @ 2:30pm - 3:30pm
-### Interview Questions: First 30 minutes
+### Interview Questions: First 30 minutes(popcorn format)
+- Post Question and answer(after having been answered) in the chat for documentation
 ### Coding Problem: Last 30 minutes
 ### Coding Problem:
 - Edabit (easy) - Blake or Judy ask the question:
