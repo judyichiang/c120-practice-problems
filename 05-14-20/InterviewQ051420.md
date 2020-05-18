@@ -25,6 +25,7 @@ Babel is a toolchain that is mainly used to convert ECMAScript 2015+ code into a
 
 ## What is a recent technical challenge you experienced and how did you solve it?
 Answer: I forgot how to create an element with an ID and I ended up asking the interviewer if I could use Google if I am not sure about the wording. He responded with, "Of course. I use it all the time. Go ahead!" So I did. :)
+In the end, during the technical interview, if I am struggling on remembering something it's best to be open and honest and let them know what you are thinking. The interviewer sounded really glad that I was open with him.
 
 
 ## What is NPM
