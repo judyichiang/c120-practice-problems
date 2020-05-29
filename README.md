@@ -2,12 +2,12 @@
 Attendees bring 2 Interview Questions
 
 ### New Day & Time:
-T, Th, @ 2:30pm - 3:30pm
+T & Th @ 2:30pm ~ 6pm
 ### Interview Questions: First 30 minutes(popcorn format)
 - Post Question and answer(after having been answered) in the chat for documentation
-### Coding Problem: Last 30 minutes
-### Coding Problem:
-- Edabit (easy) - Blake or Judy ask the question:
+### Coding Problems: Last 30 minutes or more
+### Coding Problems:
+- Edabit - Blake or Judy ask the question:
 - Problem Solver can ask interviewer questions regarding the problem (first 15 minutes);
 - After 15 minutes is up;
 	- If the problem has been solved, - trace the problem OR discuss what each line is doing
