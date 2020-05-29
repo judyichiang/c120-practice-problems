@@ -7,7 +7,7 @@ T & Th @ 2:30pm ~ 6pm
 - Post Question and answer(after having been answered) in the chat for documentation
 ### Coding Problems: Last 30 minutes or more
 ### Coding Problems:
-- Edabit - Blake or Judy ask the question:
+- Edabit/LeetCode - Blake or Judy ask the question:
 - Problem Solver can ask interviewer questions regarding the problem (first 15 minutes);
 - After 15 minutes is up;
 	- If the problem has been solved, - trace the problem OR discuss what each line is doing
