@@ -6,6 +6,7 @@
  *   firstNonRepeatedCharacter('AACBDB'); // => 'C'
  */
 
+//Jerry
 function repeat(string) {
   let newWord = "";
   for (let i = 0; i < string.length; i++) {
@@ -19,6 +20,7 @@ function repeat(string) {
 
 repeat("AACBDB");
 
+//Tracy
 function firstNonRepeatedCharacter(str) {
   let word = "";
   for (let i = 0; i < str.length; i++) {
