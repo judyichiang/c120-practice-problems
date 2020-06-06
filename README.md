@@ -32,6 +32,11 @@ T & Th @ 2:30pm ~ 6pm
 - [Web Skills](https://github.com/andreasbm/web-skills)
 - [Tech Interview Handbook](https://github.com/sudheerj/reactjs-interview-questions)
 - [You Don't Know JS Yet (book series) - 2nd Edition](https://github.com/getify/You-Dont-Know-JS)
+- [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
+- [Public APIs](https://github.com/public-apis/public-apis)
+- [Intro Recursion in JavaScript](https://github.com/hackreactor/recursion_in_javascript)
+- [Introduction to Functional JavaScript](https://github.com/hackreactor/introduction_to_functional_javascript)
+- [AngularJS](https://github.com/hackreactor/angular.js)
 
 ### LFZ Resources
 - [LFZ AWS Setup Guides](https://github.com/Learning-Fuze/aws-setup-guide)
@@ -40,6 +45,7 @@ T & Th @ 2:30pm ~ 6pm
 - [LFZ Portfolio Guidelines](https://github.com/Learning-Fuze/portfolio_guidelines)
 - [LFZ Full Stack Projects](https://github.com/Learning-Fuze/full-stack-project)
 - [LFZ Practice Projects](https://github.com/Learning-Fuze/practice-projects)
+
 
 
 
