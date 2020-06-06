@@ -32,7 +32,7 @@ T & Th @ 2:30pm ~ 6pm
 - [Web Skills](https://github.com/andreasbm/web-skills)
 - [Tech Interview Handbook](https://github.com/sudheerj/reactjs-interview-questions)
 
-
+### LFZ Resources
 - [LFZ AWS Setup Guides](https://github.com/Learning-Fuze/aws-setup-guide)
 - [LFZ Developer Resources](https://github.com/Learning-Fuze/developer-resources)
 - [LFZ Dev Environment](https://github.com/Learning-Fuze/lfz-dev)
