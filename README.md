@@ -31,6 +31,7 @@ T & Th @ 2:30pm ~ 6pm
 - [JavaScript Algorithms and Data Structures](https://github.com/yangshun/front-end-interview-handbook)
 - [Web Skills](https://github.com/andreasbm/web-skills)
 - [Tech Interview Handbook](https://github.com/sudheerj/reactjs-interview-questions)
+- [You Don't Know JS Yet (book series) - 2nd Edition](https://github.com/judyichiang/You-Dont-Know-JS)
 
 ### LFZ Resources
 - [LFZ AWS Setup Guides](https://github.com/Learning-Fuze/aws-setup-guide)
