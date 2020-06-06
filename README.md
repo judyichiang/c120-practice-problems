@@ -37,6 +37,9 @@ T & Th @ 2:30pm ~ 6pm
 - [Intro Recursion in JavaScript](https://github.com/hackreactor/recursion_in_javascript)
 - [Introduction to Functional JavaScript](https://github.com/hackreactor/introduction_to_functional_javascript)
 - [AngularJS](https://github.com/hackreactor/angular.js)
+- [Angular Essential Training](https://github.com/coursefiles/angular-essential-training)
+- [ECMAScript 6](https://github.com/lukehoban/es6features)
+- [Functions & Scopes Workshop](https://github.com/zibmcnib/javascript_functions_and_scope)
 
 ### LFZ Resources
 - [LFZ AWS Setup Guides](https://github.com/Learning-Fuze/aws-setup-guide)
