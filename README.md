@@ -36,7 +36,10 @@ T & Th @ 2:30pm ~ 6pm
 - [LFZ AWS Setup Guides](https://github.com/Learning-Fuze/aws-setup-guide)
 - [LFZ Developer Resources](https://github.com/Learning-Fuze/developer-resources)
 - [LFZ Dev Environment](https://github.com/Learning-Fuze/lfz-dev)
-- [LFZ Practice Problems](https://github.com/Learning-Fuze/practice-problems)
+- [LFZ Portfolio Guidelines](https://github.com/Learning-Fuze/portfolio_guidelines)
+- [LFZ Full Stack Projects](https://github.com/Learning-Fuze/full-stack-project)
+- [LFZ Practice Projects](https://github.com/Learning-Fuze/practice-projects)
+
 
 
 
