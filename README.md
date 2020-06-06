@@ -26,5 +26,18 @@ T & Th @ 2:30pm ~ 6pm
 - [Front-end Developer Interview Questions](https://h5bp.org/Front-end-Developer-Interview-Questions/)
 - [Practical Algorithms and Data Structures](https://bradfieldcs.com/algos/)
 - [kdn251 - interviews](https://github.com/kdn251/interviews)
-- [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
+- [Learn regex the easy way](https://github.com/ziishaned/learn-regex)
+- [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
+- [JavaScript Algorithms and Data Structures](https://github.com/yangshun/front-end-interview-handbook)
+- [Web Skills](https://github.com/andreasbm/web-skills)
+- [Tech Interview Handbook](https://github.com/sudheerj/reactjs-interview-questions)
+
+
+- [LFZ AWS Setup Guides](https://github.com/Learning-Fuze/aws-setup-guide)
+- [LFZ Developer Resources](https://github.com/Learning-Fuze/developer-resources)
+- [LFZ Dev Environment](https://github.com/Learning-Fuze/lfz-dev)
+- [LFZ Practice Problems](https://github.com/Learning-Fuze/practice-problems)
+
+
+
 
