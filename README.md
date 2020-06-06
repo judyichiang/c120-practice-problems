@@ -39,13 +39,11 @@ T & Th @ 2:30pm ~ 6pm
 - [Introduction to Functional JavaScript](https://github.com/hackreactor/introduction_to_functional_javascript)
 - [AngularJS](https://github.com/hackreactor/angular.js)
 - [Angular Essential Training](https://github.com/coursefiles/angular-essential-training)
-- [ECMAScript 6](https://github.com/lukehoban/es6features)
+- [Overview of ECMAScript 6 features](https://github.com/lukehoban/es6features)
 - [Functions & Scopes Workshop](https://github.com/zibmcnib/javascript_functions_and_scope)
 - [Intro to Coding](https://github.com/freeonedayhrc/intro-coding)
 - [Introduction to Computer Science](https://github.com/hackreactor/introduction_to_computer_science)
 - [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs)
-
-
 
 ### LFZ Resources
 - [LFZ AWS Setup Guides](https://github.com/Learning-Fuze/aws-setup-guide)
