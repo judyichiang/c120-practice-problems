@@ -26,4 +26,5 @@ T & Th @ 2:30pm ~ 6pm
 - [Front-end Developer Interview Questions](https://h5bp.org/Front-end-Developer-Interview-Questions/)
 - [Practical Algorithms and Data Structures](https://bradfieldcs.com/algos/)
 - [kdn251 - interviews](https://github.com/kdn251/interviews)
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university)
+- [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
+
