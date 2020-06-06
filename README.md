@@ -29,10 +29,11 @@ T & Th @ 2:30pm ~ 6pm
 - [Learn regex the easy way](https://github.com/ziishaned/learn-regex)
 - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
 - [JavaScript Algorithms and Data Structures](https://github.com/yangshun/front-end-interview-handbook)
-- [Web Skills](https://github.com/andreasbm/web-skills)
 - [Tech Interview Handbook](https://github.com/sudheerj/reactjs-interview-questions)
 - [You Don't Know JS Yet (book series) - 2nd Edition](https://github.com/getify/You-Dont-Know-JS)
 - [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
+- [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+- [Web Skills](https://github.com/andreasbm/web-skills)
 - [Public APIs](https://github.com/public-apis/public-apis)
 - [Intro Recursion in JavaScript](https://github.com/hackreactor/recursion_in_javascript)
 - [Introduction to Functional JavaScript](https://github.com/hackreactor/introduction_to_functional_javascript)
@@ -40,6 +41,11 @@ T & Th @ 2:30pm ~ 6pm
 - [Angular Essential Training](https://github.com/coursefiles/angular-essential-training)
 - [ECMAScript 6](https://github.com/lukehoban/es6features)
 - [Functions & Scopes Workshop](https://github.com/zibmcnib/javascript_functions_and_scope)
+- [Intro to Coding](https://github.com/freeonedayhrc/intro-coding)
+- [Introduction to Computer Science](https://github.com/hackreactor/introduction_to_computer_science)
+- [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs)
+
+
 
 ### LFZ Resources
 - [LFZ AWS Setup Guides](https://github.com/Learning-Fuze/aws-setup-guide)
