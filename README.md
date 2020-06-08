@@ -29,7 +29,6 @@ T & Th @ 2:30pm ~ 6pm
 - [Learn regex the easy way](https://github.com/ziishaned/learn-regex)
 - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
 - [JavaScript Algorithms and Data Structures](https://github.com/yangshun/front-end-interview-handbook)
-- [Tech Interview Handbook](https://github.com/sudheerj/reactjs-interview-questions)
 - [You Don't Know JS Yet (book series) - 2nd Edition](https://github.com/getify/You-Dont-Know-JS)
 - [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
 - [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
