@@ -36,6 +36,7 @@ T & Th @ 2:30pm ~ 6pm
 - [Public APIs](https://github.com/public-apis/public-apis)
 - [Intro Recursion in JavaScript](https://github.com/hackreactor/recursion_in_javascript)
 - [Introduction to Functional JavaScript](https://github.com/hackreactor/introduction_to_functional_javascript)
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [AngularJS](https://github.com/hackreactor/angular.js)
 - [Angular Essential Training](https://github.com/coursefiles/angular-essential-training)
 - [Overview of ECMAScript 6 features](https://github.com/lukehoban/es6features)
