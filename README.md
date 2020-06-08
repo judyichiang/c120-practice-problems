@@ -55,9 +55,4 @@ T & Th @ 2:30pm ~ 6pm
 
 ### Misc
 - [React GitHub Calendar](https://github.com/grubersjoe/react-github-calendar#react-github-calendar)
-
-
-
-
-
-
+- [Some basic javascript coding challenges and interview questions](https://github.com/kolodny/exercises)
