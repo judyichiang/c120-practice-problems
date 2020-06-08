@@ -53,6 +53,9 @@ T & Th @ 2:30pm ~ 6pm
 - [LFZ Full Stack Projects](https://github.com/Learning-Fuze/full-stack-project)
 - [LFZ Practice Projects](https://github.com/Learning-Fuze/practice-projects)
 
+### Misc
+- [React GitHub Calendar](https://github.com/grubersjoe/react-github-calendar#react-github-calendar)
+
 
 
 
