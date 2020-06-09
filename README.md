@@ -55,4 +55,6 @@ T & Th @ 2:30pm ~ 6pm
 
 ### Misc
 - [React GitHub Calendar](https://github.com/grubersjoe/react-github-calendar#react-github-calendar)
+- [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
 - [Some basic javascript coding challenges and interview questions](https://github.com/kolodny/exercises)
+
