@@ -14,7 +14,7 @@ Answer: They are used to move elements out of the natural flow of the page.
 Judy's Video: https://www.youtube.com/watch?v=6UgQYdhy8uU
 
 Jack's Question: Have you ever used a grid system, and if so, what do you prefer?
-Answer: Yes, bootstrap is what I'm most familiar with
+Answer: Yes, I have used the grid system. But I prefer to use Bootstrap push and pull when there is one or two elements that need rearranging. But the grid system is helpful if there are multiple elements I need to rearrange.
 https://cssgrid-generator.netlify.app/
 https://www.w3schools.com/css/css_grid.asp
 
