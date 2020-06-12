@@ -35,6 +35,7 @@ T & Th @ 2:30pm ~ 6pm
 - [Web Skills](https://github.com/andreasbm/web-skills)
 - [Public APIs](https://github.com/public-apis/public-apis)
 - [Intro Recursion in JavaScript](https://github.com/hackreactor/recursion_in_javascript)
+- [Recursion explained](https://javascript.info/recursion)
 - [Introduction to Functional JavaScript](https://github.com/hackreactor/introduction_to_functional_javascript)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [AngularJS](https://github.com/hackreactor/angular.js)
@@ -57,4 +58,3 @@ T & Th @ 2:30pm ~ 6pm
 - [React GitHub Calendar](https://github.com/grubersjoe/react-github-calendar#react-github-calendar)
 - [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
 - [Some basic javascript coding challenges and interview questions](https://github.com/kolodny/exercises)
-
