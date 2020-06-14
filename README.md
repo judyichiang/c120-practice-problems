@@ -40,6 +40,7 @@ T & Th @ 2:30pm ~ 6pm
 - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 - [The Algorithms - JavaScript](https://github.com/TheAlgorithms/Javascript)
+- [Some basic javascript coding challenges and interview questions](https://github.com/kolodny/exercises)
 - [Data Structures and Algorithms on YouTube](https://www.youtube.com/playlist?list=PLLXdhg_r2hKA7DPDsunoDZ-Z769jWn4R8)
 - [You Don't Know JS Yet (book series) - 2nd Edition](https://github.com/getify/You-Dont-Know-JS)
 - [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
@@ -73,7 +74,6 @@ T & Th @ 2:30pm ~ 6pm
 
 ### Misc
 - [React GitHub Calendar](https://github.com/grubersjoe/react-github-calendar#react-github-calendar)
-- [Some basic javascript coding challenges and interview questions](https://github.com/kolodny/exercises)
 - [Online RegEx Tester and Debugger - regex101](https://regex101.com/)
 - [regexp-quantifiers](https://javascript.info/regexp-quantifiers)
 
