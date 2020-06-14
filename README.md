@@ -22,6 +22,7 @@ T & Th @ 2:30pm ~ 6pm
 
 ## Resources
 - [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+- [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
 - [Practical Algorithms and Data Structures](https://bradfieldcs.com/algos/)
 - [kdn251 - interviews](https://github.com/kdn251/interviews)
 - [Learn regex the easy way](https://github.com/ziishaned/learn-regex)
@@ -30,8 +31,6 @@ T & Th @ 2:30pm ~ 6pm
 
 ### JavaScript
 - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
-- [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
-
 - [You Don't Know JS Yet (book series) - 2nd Edition](https://github.com/getify/You-Dont-Know-JS)
 - [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
 - [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
