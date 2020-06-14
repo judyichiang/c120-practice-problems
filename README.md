@@ -21,7 +21,7 @@ T & Th @ 2:30pm ~ 6pm
 - Jack, Tracy, and Jerry documents and maintain the repo for the session
 
 ## Resources
-- [Front-end Developer Interview Questions](https://h5bp.org/Front-end-Developer-Interview-Questions/)
+- [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 - [Practical Algorithms and Data Structures](https://bradfieldcs.com/algos/)
 - [kdn251 - interviews](https://github.com/kdn251/interviews)
 - [Learn regex the easy way](https://github.com/ziishaned/learn-regex)
@@ -30,11 +30,12 @@ T & Th @ 2:30pm ~ 6pm
 
 ### JavaScript
 - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
-- [JavaScript Algorithms and Data Structures](https://github.com/yangshun/front-end-interview-handbook)
+- [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
+
 - [You Don't Know JS Yet (book series) - 2nd Edition](https://github.com/getify/You-Dont-Know-JS)
 - [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
 - [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
-- [Intro Recursion in JavaScript](https://github.com/hackreactor/recursion_in_javascript)
+- [Intro Recursion in JavaScript](https://github.com/hackreactor/recursion_in_javascript)f
 - [Recursion explained](https://javascript.info/recursion)
 - [Introduction to Functional JavaScript](https://github.com/hackreactor/introduction_to_functional_javascript)
 - [Functions & Scopes Workshop](https://github.com/zibmcnib/javascript_functions_and_scope)
