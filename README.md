@@ -34,7 +34,7 @@ T & Th @ 2:30pm ~ 6pm
 - [You Don't Know JS Yet (book series) - 2nd Edition](https://github.com/getify/You-Dont-Know-JS)
 - [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
 - [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
-- [Intro Recursion in JavaScript](https://github.com/hackreactor/recursion_in_javascript)f
+- [Intro Recursion in JavaScript](https://github.com/hackreactor/recursion_in_javascript)
 - [Recursion explained](https://javascript.info/recursion)
 - [Introduction to Functional JavaScript](https://github.com/hackreactor/introduction_to_functional_javascript)
 - [Functions & Scopes Workshop](https://github.com/zibmcnib/javascript_functions_and_scope)
