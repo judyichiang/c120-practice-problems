@@ -38,6 +38,7 @@ T & Th @ 2:30pm ~ 6pm
 
 ### JavaScript
 - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
+- [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 - [You Don't Know JS Yet (book series) - 2nd Edition](https://github.com/getify/You-Dont-Know-JS)
 - [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
 - [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
