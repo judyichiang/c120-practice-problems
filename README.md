@@ -63,14 +63,13 @@ T & Th @ 2:30pm ~ 6pm
 
 ### CheatSheets
 - [Big-O Cheat SheetDownload](https://www.bigocheatsheet.com/)
-- [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
-- [JavaScript Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/javascript)
-- [flex-cheatsheet](https://yoksel.github.io/flex-cheatsheet/)
 - [JS CheatSheet](https://htmlcheatsheet.com/js/)
+- [JavaScript Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/javascript)
 - [HTML CheatSheet](https://htmlcheatsheet.com/)
 - [CSS CheatSheet](https://htmlcheatsheet.com/css/)
+- [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
+- [flex-cheatsheet](https://yoksel.github.io/flex-cheatsheet/)
 - [Bootstrap 4 Cheat Sheet](https://hackerthemes.com/bootstrap-cheatsheet/)
-- [JavaScript Regex Cheatsheett](https://www.debuggex.com/cheatsheet/regex/javascript)
 
 ### Misc
 - [React GitHub Calendar](https://github.com/grubersjoe/react-github-calendar#react-github-calendar)
