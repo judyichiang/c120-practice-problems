@@ -20,7 +20,7 @@ T & Th @ 2:30pm ~ 6pm
 - If anyone has a coding problem outside the session bring it to the host to get in the discussion queue.
 - Jack, Tracy, and Jerry documents and maintain the repo for the session
 
-### Resources
+## Resources
 - [Front-end Developer Interview Questions](https://h5bp.org/Front-end-Developer-Interview-Questions/)
 - [Practical Algorithms and Data Structures](https://bradfieldcs.com/algos/)
 - [kdn251 - interviews](https://github.com/kdn251/interviews)
@@ -28,7 +28,7 @@ T & Th @ 2:30pm ~ 6pm
 - [Web Skills](https://github.com/andreasbm/web-skills)
 - [Public APIs](https://github.com/public-apis/public-apis)
 
-## JavaScript
+### JavaScript
 - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
 - [JavaScript Algorithms and Data Structures](https://github.com/yangshun/front-end-interview-handbook)
 - [You Don't Know JS Yet (book series) - 2nd Edition](https://github.com/getify/You-Dont-Know-JS)
@@ -39,7 +39,7 @@ T & Th @ 2:30pm ~ 6pm
 - [Introduction to Functional JavaScript](https://github.com/hackreactor/introduction_to_functional_javascript)
 - [Functions & Scopes Workshop](https://github.com/zibmcnib/javascript_functions_and_scope)
 
-## React
+### React
 - [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
 - [Cheat Sheet for React Interview Questions 2020](https://medium.com/@stevenjinyi/study-sheet-for-react-interview-questions-2020-2fe25b8fa316)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
