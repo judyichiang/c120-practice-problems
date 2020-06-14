@@ -28,6 +28,13 @@ T & Th @ 2:30pm ~ 6pm
 - [Learn regex the easy way](https://github.com/ziishaned/learn-regex)
 - [Web Skills](https://github.com/andreasbm/web-skills)
 - [Public APIs](https://github.com/public-apis/public-apis)
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [AngularJS](https://github.com/hackreactor/angular.js)
+- [Angular Essential Training](https://github.com/coursefiles/angular-essential-training)
+- [Overview of ECMAScript 6 features](https://github.com/lukehoban/es6features)
+- [Intro to Coding](https://github.com/freeonedayhrc/intro-coding)
+- [Introduction to Computer Science](https://github.com/hackreactor/introduction_to_computer_science)
+- [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs)
 
 ### JavaScript
 - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
@@ -42,13 +49,6 @@ T & Th @ 2:30pm ~ 6pm
 ### React
 - [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
 - [Cheat Sheet for React Interview Questions 2020](https://medium.com/@stevenjinyi/study-sheet-for-react-interview-questions-2020-2fe25b8fa316)
-- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
-- [AngularJS](https://github.com/hackreactor/angular.js)
-- [Angular Essential Training](https://github.com/coursefiles/angular-essential-training)
-- [Overview of ECMAScript 6 features](https://github.com/lukehoban/es6features)
-- [Intro to Coding](https://github.com/freeonedayhrc/intro-coding)
-- [Introduction to Computer Science](https://github.com/hackreactor/introduction_to_computer_science)
-- [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs)
 
 ### LFZ Resources
 - [LFZ AWS Setup Guides](https://github.com/Learning-Fuze/aws-setup-guide)
