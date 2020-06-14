@@ -71,6 +71,8 @@ T & Th @ 2:30pm ~ 6pm
 ### Misc
 - [React GitHub Calendar](https://github.com/grubersjoe/react-github-calendar#react-github-calendar)
 - [Some basic javascript coding challenges and interview questions](https://github.com/kolodny/exercises)
+- [Online RegEx Tester and Debugger - regex101](https://regex101.com/)
+- [regexp-quantifiers](https://javascript.info/regexp-quantifiers)
 
 ### Games
 - [FLEXBOX FROGGY](https://flexboxfroggy.com/)
