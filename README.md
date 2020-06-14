@@ -39,6 +39,8 @@ T & Th @ 2:30pm ~ 6pm
 ### JavaScript
 - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
+- [The Algorithms - JavaScript](https://github.com/TheAlgorithms/Javascript)
+- [Data Structures and Algorithms on YouTube](https://www.youtube.com/playlist?list=PLLXdhg_r2hKA7DPDsunoDZ-Z769jWn4R8)
 - [You Don't Know JS Yet (book series) - 2nd Edition](https://github.com/getify/You-Dont-Know-JS)
 - [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
 - [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
@@ -60,6 +62,7 @@ T & Th @ 2:30pm ~ 6pm
 - [LFZ Practice Projects](https://github.com/Learning-Fuze/practice-projects)
 
 ### CheatSheets
+- [Big-O Cheat SheetDownload](https://www.bigocheatsheet.com/)
 - [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
 - [JavaScript Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/javascript)
 - [flex-cheatsheet](https://yoksel.github.io/flex-cheatsheet/)
