@@ -54,6 +54,10 @@ T & Th @ 2:30pm ~ 6pm
 - [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
 - [Cheat Sheet for React Interview Questions 2020](https://medium.com/@stevenjinyi/study-sheet-for-react-interview-questions-2020-2fe25b8fa316)
 
+### SQL
+- [Crack SQL Interviews](https://towardsdatascience.com/crack-sql-interviews-6a5fc90ec763)
+
+
 ### LFZ Resources
 - [LFZ AWS Setup Guides](https://github.com/Learning-Fuze/aws-setup-guide)
 - [LFZ Developer Resources](https://github.com/Learning-Fuze/developer-resources)
