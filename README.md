@@ -23,6 +23,7 @@ T & Th @ 2:30pm ~ 6pm
 ## Resources
 - [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 - [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
+- [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 - [Practical Algorithms and Data Structures](https://bradfieldcs.com/algos/)
 - [kdn251 - interviews](https://github.com/kdn251/interviews)
 - [Learn regex the easy way](https://github.com/ziishaned/learn-regex)
@@ -44,7 +45,6 @@ T & Th @ 2:30pm ~ 6pm
 - [Data Structures and Algorithms on YouTube](https://www.youtube.com/playlist?list=PLLXdhg_r2hKA7DPDsunoDZ-Z769jWn4R8)
 - [You Don't Know JS Yet (book series) - 2nd Edition](https://github.com/getify/You-Dont-Know-JS)
 - [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
-- [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 - [Intro Recursion in JavaScript](https://github.com/hackreactor/recursion_in_javascript)
 - [Recursion explained](https://javascript.info/recursion)
 - [Introduction to Functional JavaScript](https://github.com/hackreactor/introduction_to_functional_javascript)
