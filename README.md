@@ -6,7 +6,7 @@ Attendees bring 2 Interview Questions
 
 T & Th @ 2:30pm ~ 6pm
 
-### Interview Questions: First 30 minutes(popcorn format)
+### Interview Questions: First 30 minutes (popcorn format)
 
 - Post Question and answer(after having been answered) in the chat for documentation
 
