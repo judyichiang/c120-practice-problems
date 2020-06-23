@@ -37,7 +37,7 @@ T & Th @ 2:30pm ~ 6pm
 - [Intro to Coding](https://github.com/freeonedayhrc/intro-coding)
 - [Introduction to Computer Science](https://github.com/hackreactor/introduction_to_computer_science)
 - [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs)
-- [rayning - coding challenges repo](https://github.com/rayning0/ctci)
+- [rayning0 - coding challenges repo](https://github.com/rayning0/ctci)
 
 ### JavaScript
 - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
