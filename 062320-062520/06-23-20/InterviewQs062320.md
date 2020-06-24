@@ -3,7 +3,7 @@ Questions 43-52
 https://github.com/lydiahallie/javascript-questions
 
 
-# Questions
+# Interview Questions:
 
 ### What is extend?
 The extends keyword is used to create a child class of another class (parent).
@@ -14,7 +14,6 @@ Inheritance is useful for code reusability: reuse properties and methods of an e
 Syntax:
 
 class childClass extends parentClass
-
 
 class BasicPlan {
     static canStream = true;
