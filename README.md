@@ -84,6 +84,8 @@ T & Th @ 2:30pm ~ 6pm
 - [regexp-quantifiers](https://javascript.info/regexp-quantifiers)
 - [Hover.css A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.](https://github.com/IanLunn/Hover)
 - [Choose an open source license](https://choosealicense.com/)
+- [HTTP SECURITY HEADERS](https://owasp.org/www-chapter-ghana/assets/slides/HTTP_Header_Security.pdf)
+- [Mozilla Observatory](https://observatory.mozilla.org/)
 
 ### Games
 - [FLEXBOX FROGGY](https://flexboxfroggy.com/)
