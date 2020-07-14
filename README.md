@@ -80,6 +80,7 @@ T & Th @ 2:30pm ~ 6pm
 - [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
 - [flex-cheatsheet](https://yoksel.github.io/flex-cheatsheet/)
 - [Bootstrap 4 Cheat Sheet](https://hackerthemes.com/bootstrap-cheatsheet/)
+- [Regex Cheat Sheet](https://www.rexegg.com/regex-quickstart.html)
 
 ### Misc
 - [React GitHub Calendar](https://github.com/grubersjoe/react-github-calendar#react-github-calendar)
