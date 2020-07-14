@@ -42,6 +42,7 @@ T & Th @ 2:30pm ~ 6pm
 
 ### JavaScript
 - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
+- [70 JavaScript Interview Questions](https://dev.to/macmacky/70-javascript-interview-questions-5gfi)
 - [37 Essential JavaScript Interview Questions ](https://www.toptal.com/javascript/interview-questions)
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 - [The Algorithms - JavaScript](https://github.com/TheAlgorithms/Javascript)
