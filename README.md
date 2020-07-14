@@ -94,4 +94,6 @@ T & Th @ 2:30pm ~ 6pm
 - [flexboxzombies](https://flexboxzombies.com/p/flexbox-zombies)
 - [Select the plates](https://flukeout.github.io/)
 - [GRID GARDEN](https://cssgridgarden.com/)
+- [Regex Crossword](https://regexcrossword.com/)
+- [SQL Murder Mystery](https://mystery.knightlab.com/)
 
