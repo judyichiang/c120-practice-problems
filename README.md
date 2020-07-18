@@ -102,3 +102,9 @@ T & Th @ 2:30pm ~ 6pm
 ### Interview Resources
 - [How to Ace a Job Interview with Radical Preparation](https://medium.com/better-humans/how-to-ace-a-job-interview-with-radical-preparation-3756a3f27ef8)
 - [Here's How to Prepare for Tech Interviews](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
+- [A Software Engineering survival guide](https://www.freecodecamp.org/news/a-software-engineering-survival-guide-fe3eafb47166/)
+
+### Job Search Resouces
+- [Expert tip: Find the 'hidden job market'](https://www.linkedin.com/pulse/expert-tip-find-hidden-job-market-cayla-dengate/?trackingId=klvTrZESR0qzIaA7kcSvLQ%3D%3D)
+- [Tailor Your Resume and Cover Letter!](https://www.jobscan.co/blog/taleo-popular-ats-ranks-job-applications/)
+- [Taleo: 4 Ways the Most Popular ATS Ranks Your Job Application - Jobscan Blog](https://www.jobscan.co/blog/taleo-popular-ats-ranks-job-applications/)
