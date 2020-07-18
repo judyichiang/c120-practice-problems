@@ -99,3 +99,6 @@ T & Th @ 2:30pm ~ 6pm
 - [Regex Crossword](https://regexcrossword.com/)
 - [SQL Murder Mystery](https://mystery.knightlab.com/)
 
+### Interview Resources
+- [How to Ace a Job Interview with Radical Preparation](https://medium.com/better-humans/how-to-ace-a-job-interview-with-radical-preparation-3756a3f27ef8)
+- [Here's How to Prepare for Tech Interviews](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
