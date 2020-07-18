@@ -106,5 +106,4 @@ T & Th @ 2:30pm ~ 6pm
 
 ### Job Search Resouces
 - [Expert tip: Find the 'hidden job market'](https://www.linkedin.com/pulse/expert-tip-find-hidden-job-market-cayla-dengate/?trackingId=klvTrZESR0qzIaA7kcSvLQ%3D%3D)
-- [Tailor Your Resume and Cover Letter!](https://www.jobscan.co/blog/taleo-popular-ats-ranks-job-applications/)
 - [Taleo: 4 Ways the Most Popular ATS Ranks Your Job Application - Jobscan Blog](https://www.jobscan.co/blog/taleo-popular-ats-ranks-job-applications/)
