@@ -90,6 +90,7 @@ T & Th @ 2:30pm ~ 6pm
 - [Choose an open source license](https://choosealicense.com/)
 - [HTTP SECURITY HEADERS](https://owasp.org/www-chapter-ghana/assets/slides/HTTP_Header_Security.pdf)
 - [Mozilla Observatory](https://observatory.mozilla.org/)
+- [JS Performance Analysis for vs forEach vs reduce, map, filter, find](https://github.com/dg92/Performance-Analysis-JS)
 
 ### Games
 - [FLEXBOX FROGGY](https://flexboxfroggy.com/)
