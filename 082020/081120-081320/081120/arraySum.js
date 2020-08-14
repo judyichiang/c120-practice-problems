@@ -16,8 +16,8 @@
 
 //Jack
 function sum(arr) {
-  if (!arr.length) return 0;
-  return arr[0] + sum(arr.slice(1));
+  if (!arr.length) return 0
+  return arr[0] + sum(arr.slice(1))
 }
 
 //Jerry
@@ -25,8 +25,9 @@ function sum(arr) {
   if (arr.length === 0) {
     return 0;
   } else if (arr.length === 1) {
-    return arr[0];
-  } else {
+        return arr[0]
+    }
+  else {
     return arr.pop() + sum(arr);
   }
 }
