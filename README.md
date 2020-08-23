@@ -23,6 +23,7 @@ T & Th @ 2:30pm ~ 6pm
 ## Resources
 - [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 - [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
+- [Front-End Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/)
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 - [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 - [Practical Algorithms and Data Structures](https://bradfieldcs.com/algos/)
