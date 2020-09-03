@@ -21,6 +21,7 @@ T & Th @ 2:30pm ~ 6pm
 - Jack, Tracy, and Jerry documents and maintain the repo for the session
 
 ## Resources
+- [Developer Roadmaps](https://roadmap.sh/)
 - [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 - [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
 - [Front-End Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
