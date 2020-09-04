@@ -66,6 +66,10 @@ T & Th @ 2:30pm ~ 6pm
 ### SQL
 - [Crack SQL Interviews](https://towardsdatascience.com/crack-sql-interviews-6a5fc90ec763)
 
+### Data Structures and Algorithms 
+- [The top data structures you should know for your next coding interview](https://www.freecodecamp.org/news/the-top-data-structures-you-should-know-for-your-next-coding-interview-36af0831f5e3/)
+
+
 ### LFZ Resources
 - [LFZ AWS Setup Guides](https://github.com/Learning-Fuze/aws-setup-guide)
 - [LFZ Developer Resources](https://github.com/Learning-Fuze/developer-resources)
@@ -94,6 +98,7 @@ T & Th @ 2:30pm ~ 6pm
 - [HTTP SECURITY HEADERS](https://owasp.org/www-chapter-ghana/assets/slides/HTTP_Header_Security.pdf)
 - [Mozilla Observatory](https://observatory.mozilla.org/)
 - [JS Performance Analysis for vs forEach vs reduce, map, filter, find](https://github.com/dg92/Performance-Analysis-JS)
+
 
 ### Games
 - [FLEXBOX FROGGY](https://flexboxfroggy.com/)
