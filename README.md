@@ -42,6 +42,7 @@ T & Th @ 2:30pm ~ 6pm
 - [Introduction to Computer Science](https://github.com/hackreactor/introduction_to_computer_science)
 - [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs)
 - [rayning0 - coding challenges repo](https://github.com/rayning0/ctci)
+- [Studytonight - Free Computer Programming Tutorials](https://www.studytonight.com/)
 
 ### JavaScript
 - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
@@ -64,7 +65,6 @@ T & Th @ 2:30pm ~ 6pm
 
 ### SQL
 - [Crack SQL Interviews](https://towardsdatascience.com/crack-sql-interviews-6a5fc90ec763)
-
 
 ### LFZ Resources
 - [LFZ AWS Setup Guides](https://github.com/Learning-Fuze/aws-setup-guide)
