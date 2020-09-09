@@ -68,6 +68,7 @@ T & Th @ 2:30pm ~ 6pm
 
 ### Data Structures and Algorithms 
 - [The top data structures you should know for your next coding interview](https://www.freecodecamp.org/news/the-top-data-structures-you-should-know-for-your-next-coding-interview-36af0831f5e3/)
+- [Problem Solving and Algorithms](http://sofia.cs.vt.edu/cs1114-ebooklet/chapter4.html)
 
 
 ### LFZ Resources
