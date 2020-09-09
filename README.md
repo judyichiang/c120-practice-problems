@@ -71,6 +71,8 @@ T & Th @ 2:30pm ~ 6pm
 - [DS & ALGORITHM ](https://www.studytonight.com/data-structures/search-algorithms)
 - [Every Beginner Should Know These Differences Between Data Structures and Algorithms](https://medium.com/swlh/differences-between-data-structures-and-algorithms-eed2c1872cfc)
 - [Problem Solving and Algorithms](http://sofia.cs.vt.edu/cs1114-ebooklet/chapter4.html)
+- [How to analyze time complexity: Count your steps](https://yourbasic.org/algorithms/time-complexity-explained/)
+- [LFZ AWS Setup Guides](https://github.com/Learning-Fuze/aws-setup-guide)
 
 
 ### LFZ Resources
