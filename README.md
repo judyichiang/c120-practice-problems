@@ -68,6 +68,8 @@ T & Th @ 2:30pm ~ 6pm
 
 ### Data Structures and Algorithms 
 - [The top data structures you should know for your next coding interview](https://www.freecodecamp.org/news/the-top-data-structures-you-should-know-for-your-next-coding-interview-36af0831f5e3/)
+- [DS & ALGORITHM ](https://www.studytonight.com/data-structures/search-algorithms)
+- [Every Beginner Should Know These Differences Between Data Structures and Algorithms](https://medium.com/swlh/differences-between-data-structures-and-algorithms-eed2c1872cfc)
 - [Problem Solving and Algorithms](http://sofia.cs.vt.edu/cs1114-ebooklet/chapter4.html)
 
 
