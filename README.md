@@ -22,6 +22,7 @@ T & Th @ 2:30pm ~ 6pm
 
 ## Resources
 - [Developer Roadmaps](https://roadmap.sh/)
+- [Web Developer Roadmap 2020](https://github.com/kamranahmedse/developer-roadmap)
 - [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 - [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
 - [Front-End Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
