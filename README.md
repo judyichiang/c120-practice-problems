@@ -75,6 +75,7 @@ T & Th @ 2:30pm ~ 6pm
 - [Problem Solving and Algorithms](http://sofia.cs.vt.edu/cs1114-ebooklet/chapter4.html)
 - [How to analyze time complexity: Count your steps](https://yourbasic.org/algorithms/time-complexity-explained/)
 - [LFZ AWS Setup Guides](https://github.com/Learning-Fuze/aws-setup-guide)
+- [Algorithm Academy](https://github.com/algorithmacademy/AlgoAcademy)
 
 
 ### LFZ Resources
